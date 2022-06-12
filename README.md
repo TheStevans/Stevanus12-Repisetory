@@ -2,6 +2,8 @@
 
 # pastikan kalian bikin file batnya dulu
 
+lbh baik lihat di *raw* 
+
 @echo off
 
 #if /r
